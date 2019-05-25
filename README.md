@@ -1,2 +1,2 @@
-# renren-code
+# renren-fast
 useful
