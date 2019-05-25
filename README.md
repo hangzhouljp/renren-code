@@ -1,2 +1,2 @@
-# renren-gode
+# renren-code
 useful
